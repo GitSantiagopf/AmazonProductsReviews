@@ -1,4 +1,4 @@
-Sentiment analysis
+Amazon Products Reviews
 ==============================
 
 Project Organization
