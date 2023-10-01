@@ -17,18 +17,18 @@ Jupyter Notebook
 
     ├── LICENSE
     ├── Makefile           
-    ├── README.md          <- README for developers using this project.
+    ├── README.md          
     ├── data
-    │   ├── external       <- Data from external
+    │   ├── external       
     │
-    ├── models             <- best mode
+    ├── models             
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── notebooks          
+    │                        
+    │                        
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+    ├── requirements.txt  
+    │                        
 
 ## **Contributing**
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests via the project's GitHub repository.
