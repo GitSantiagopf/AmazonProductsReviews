@@ -1,5 +1,5 @@
 # Amazon Products Reviews
-==============================
+
 This project aims to analyze and make predictions based on Amazon product reviews using deep learning techniques. By leveraging natural language processing (NLP) and deep learning models, we can extract insights, sentiment analysis, and potentially make recommendations based on customer reviews.
 
 ## Requirements
